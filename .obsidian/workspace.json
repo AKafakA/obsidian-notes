@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 516.5
   },
   "right": {
     "id": "f0e78d06755f5400",
@@ -164,8 +164,19 @@
               "icon": "lucide-list",
               "title": "未命名 的大纲"
             }
+          },
+          {
+            "id": "5090263d870abc14",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,24 +197,35 @@
   },
   "active": "5ed149974d5e614a",
   "lastOpenFiles": [
+    "course notes/CS336/Lab Notes.md",
+    "paper notes/LLM Inference/LLM load balancing",
+    "paper notes/LLM Inference/MoE Speeding",
+    "paper notes/LLM Inference/KV Caching",
+    "paper notes/LLM Inference/P-D Disaggration",
+    "paper notes/LLM Inference/Multi-token-prediction",
+    "course notes/CS336/Note Draft.md",
+    "course notes/CS336/Revised Note.md",
+    "course notes/CS336",
+    "course notes/ECE408 Applied Parallel Programming.md",
+    "paper notes/Task Scheduler/Scheduler.md",
+    "paper notes/Task Scheduler",
+    "paper notes/LLM Model/LLM Algorithm.md",
     "paper notes/Vector Database.md",
-    "paper notes/MLSYS-Training.md",
-    "paper notes/LLM Algorithm.md",
+    "paper notes/LLM Model",
+    "paper notes/LLM Training/MLSYS-Training.md",
+    "paper notes/LLM Training",
+    "paper notes/LLM Inference/Unclassified/MLSYS-Inference.md",
+    "paper notes/LLM Inference/Unclassified",
+    "paper notes/LLM Inference/Offloading/S-LORA.md",
+    "paper notes/LLM Inference/Offloading/NEO.md",
+    "paper notes/LLM Inference/Offloading/FlexGen.md",
+    "paper notes/LLM Inference/Offloading/DeepSpeed-Inference.md",
     "project/UnivSchedule.md",
     "project/UnivCache.md",
     "project/Dodoor.md",
-    "project/Block.md",
-    "course notes/cs336.md",
-    "paper notes/MLSYS-Inference.md",
-    "paper notes/Scheduler.md",
-    "course notes/CS336 Notes LLM from Scractch.md",
-    "course notes/ECE408 Applied Parallel Programming.md",
     "book notes/Speech & language processing (ch9 to ch16).md",
-    "project",
-    "course notes",
-    "book notes",
+    "project/Block.md",
     "Paper Reading List.md",
-    "paper notes",
     "欢迎.md"
   ]
 }

@@ -95,4 +95,14 @@ HyperMamaba
 TimeLLM
 
 
+-----
+
+Seamless
+
+---
+
+DeepSeekV3 
+
+---
+DeepSeek Zero and TinyZero
 

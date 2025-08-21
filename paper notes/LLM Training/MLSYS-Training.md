@@ -10,9 +10,11 @@ Megatron-LM
 
 pipeline parallelism 
 
-GPipe 
+Gpipe
 
 PipeDream
+
+
 
 ----
 
@@ -30,4 +32,9 @@ Expert parallelism (MoE)
 [DeepSeek-V2 Technical Report](https://arxiv.org/abs/2405.04434), 
 [Auxiliary-Loss-Free Load Balancing](https://arxiv.org/abs/2408.15664)
 
+-----
+
+Alignment
+
+veRL
 

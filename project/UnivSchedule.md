@@ -38,11 +38,20 @@ Predictor Model:
 		Training  - [x]  
 		 Inference - [x]
 		End-to-end test
+	Infomer/Timesnet latency predictor:
+		 Training - 
+		 Inference -
+		 End-to-end test
 	Memory ratio predictor (optional) :  Allow to predict the average memory utilisation during inference
 		 Training
 		 Inference
 		 End-to-end test
 
+Length predictor and LLM Judger:
+	   Model results collection 
+		   Qwen family
+		   Llama family
+	  Judger Model training and evaluation
 
 Develop 
 		benchmark scripts
