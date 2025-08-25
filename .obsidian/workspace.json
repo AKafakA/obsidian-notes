@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book notes/Speech & language processing (ch9 to ch16).md",
+                "file": "paper notes/LLM Inference/Unclassified/MLSYS-Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Speech & language processing (ch9 to ch16)"
+              "title": "MLSYS-Inference"
             }
           },
           {
@@ -171,12 +171,22 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
+            }
+          },
+          {
+            "id": "382eceeba34a1b62",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -195,37 +206,43 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5ed149974d5e614a",
+  "active": "87e2390ad5468f10",
   "lastOpenFiles": [
-    "course notes/CS336/Lab Notes.md",
-    "paper notes/LLM Inference/LLM load balancing",
-    "paper notes/LLM Inference/MoE Speeding",
-    "paper notes/LLM Inference/KV Caching",
-    "paper notes/LLM Inference/P-D Disaggration",
-    "paper notes/LLM Inference/Multi-token-prediction",
-    "course notes/CS336/Note Draft.md",
-    "course notes/CS336/Revised Note.md",
-    "course notes/CS336",
-    "course notes/ECE408 Applied Parallel Programming.md",
-    "paper notes/Task Scheduler/Scheduler.md",
-    "paper notes/Task Scheduler",
-    "paper notes/LLM Model/LLM Algorithm.md",
-    "paper notes/Vector Database.md",
-    "paper notes/LLM Model",
-    "paper notes/LLM Training/MLSYS-Training.md",
-    "paper notes/LLM Training",
+    "paper notes/LLM Inference/未命名",
+    "paper notes/LLM Inference/MoE-inferences",
+    "paper notes/LLM Inference/Cache Management",
+    "paper notes/LLM Inference/RAG",
+    "paper notes/LLM Inference/GEMM & Kernel",
+    "paper notes/LLM Inference/Disaggration/MegaScale-infer.md",
+    "paper notes/LLM Inference/LLM-serving-framework",
+    "paper notes/LLM Inference/Diffusion llm",
+    "paper notes/LLM Inference/Speculative Decoding",
+    "paper notes/LLM Inference/未命名.md",
+    "paper notes/LLM Inference/Disaggration/TaiChi.md",
+    "paper notes/LLM Inference/Disaggration/PD-On-Local-Cloud.md",
+    "paper notes/LLM Inference/Disaggration/TPLA.md",
+    "paper notes/LLM Inference/Disaggration/Splitwise.md",
+    "paper notes/LLM Inference/Disaggration/MoonCake.md",
+    "paper notes/LLM Inference/Disaggration/llm-d.md",
+    "paper notes/LLM Inference/Disaggration/DistServe.md",
     "paper notes/LLM Inference/Unclassified/MLSYS-Inference.md",
-    "paper notes/LLM Inference/Unclassified",
+    "paper notes/LLM Inference/Disaggration",
     "paper notes/LLM Inference/Offloading/S-LORA.md",
     "paper notes/LLM Inference/Offloading/NEO.md",
     "paper notes/LLM Inference/Offloading/FlexGen.md",
     "paper notes/LLM Inference/Offloading/DeepSpeed-Inference.md",
-    "project/UnivSchedule.md",
-    "project/UnivCache.md",
-    "project/Dodoor.md",
+    "course notes/ECE408 Applied Parallel Programming.md",
+    "course notes/CS336/Note Draft.md",
+    "course notes/CS336/Lab Notes.md",
     "book notes/Speech & language processing (ch9 to ch16).md",
-    "project/Block.md",
-    "Paper Reading List.md",
-    "欢迎.md"
+    "paper notes/LLM Inference/LLM load balancing",
+    "paper notes/LLM Inference/MoE Speeding",
+    "course notes/CS336/Revised Note.md",
+    "paper notes/Task Scheduler/Scheduler.md",
+    "paper notes/LLM Model/LLM Algorithm.md",
+    "paper notes/Vector Database.md",
+    "paper notes/LLM Training/MLSYS-Training.md",
+    "project/UnivSchedule.md",
+    "project/UnivCache.md"
   ]
 }
