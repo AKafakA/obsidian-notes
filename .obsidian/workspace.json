@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper notes/LLM Inference/LLM router/FrugalGPT.md",
+                "file": "project/cara/summarized scope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FrugalGPT"
+              "title": "summarized scope"
+            }
+          },
+          {
+            "id": "b21aff0eaa612185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper notes/LLM Inference/serving/engine_optimzation/Nano-flow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nano-flow"
             }
           },
           {
@@ -27,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper notes/LLM Inference/MoE-inferences/KTransformer.md",
+                "file": "paper notes/LLM Inference/LLM router/RouteBench.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KTransformer"
+              "title": "RouteBench"
             }
           }
         ],
@@ -207,43 +221,43 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "382e62544804a969",
+  "active": "b21aff0eaa612185",
   "lastOpenFiles": [
-    "paper notes/LLM Inference/LLM router/FrugalGPT.md",
-    "paper notes/LLM Inference/MoE-inferences/KTransformer.md",
-    "paper notes/LLM Inference/MoE-inferences/Fiddler.md",
-    "paper notes/LLM Inference/serving/deployment/HexGen.md",
-    "paper notes/LLM Inference/GEMM & Kernel/Flash Infer.md",
-    "paper notes/LLM Inference/GEMM & Kernel/Flash attention.md",
-    "paper notes/LLM Inference/serving/task scheduling/Block.md",
-    "paper notes/LLM Inference/serving/deployment/ThunderServe.md",
-    "paper notes/LLM Inference/serving/deployment/HexGen-2.md",
-    "paper notes/LLM Inference/serving/task scheduling",
-    "paper notes/LLM Inference/serving/finetuning/dLoRA.md",
-    "paper notes/LLM Inference/serving/finetuning/Parrot.md",
-    "paper notes/LLM Inference/serving/finetuning/S-LoRA.md",
-    "paper notes/LLM Inference/serving/deployment",
-    "paper notes/LLM Inference/measurement/Revisiting SLO.md",
-    "paper notes/LLM Inference/serving/finetuning",
-    "paper notes/LLM Inference/LLM-edge/Cross-Silo Knowledge Transfer.md",
-    "paper notes/LLM Inference/measurement",
-    "paper notes/LLM Inference/Cache Management/CacheGen.md",
-    "paper notes/LLM Inference/Cache Management/CacheBlend.md",
-    "paper notes/LLM Inference/Cache Management/Prompt-Cache.md",
-    "paper notes/LLM Inference/Cache Management/RAGCache.md",
-    "paper notes/LLM Inference/Offloading/FlexGen.md",
-    "paper notes/LLM Inference/Offloading/NEO.md",
-    "paper notes/LLM Inference/Offloading/S-LORA.md",
-    "paper notes/LLM Inference/Offloading/DeepSpeed-Inference.md",
     "paper notes/LLM Inference/Sequence parallelism/LoongServe.md",
+    "paper notes/LLM Inference/serving/engine_optimzation/Nano-flow.md",
+    "paper notes/LLM Inference/serving/engine_optimzation",
+    "paper notes/LLM Inference/LLM router/ROUTERARENA.md",
+    "paper notes/LLM Inference/LLM router/Avenger-Pro.md",
+    "paper notes/LLM Inference/LLM router/RouteBench.md",
+    "paper notes/LLM Inference/LLM router/Average.md",
+    "paper notes/LLM Inference/LLM router/routeLLM.md",
+    "project/cara/cara-discussion.md",
+    "project/cara/summarized scope.md",
+    "project/cara/UnivSchedule.md",
+    "project/cara",
+    "project/Block.md",
+    "project/Dodoor.md",
+    "paper notes/LLM Inference/LLM router/hybrid-llm.md",
+    "paper notes/LLM Inference/LLM router/Best-Route.md",
+    "paper notes/LLM Inference/LLM router/FrugalGPT.md",
+    "paper notes/LLM Inference/serving/task scheduling/Block.md",
+    "paper notes/LLM Inference/Disaggration/DUETSERVE.md",
+    "paper notes/LLM Inference/Disaggration/Semi-PD.md",
     "paper notes/LLM Inference/Disaggration/TPLA.md",
     "paper notes/LLM Inference/Disaggration/TaiChi.md",
     "paper notes/LLM Inference/Disaggration/Splitwise.md",
+    "paper notes/LLM Inference/Disaggration/PD-On-Local-Cloud.md",
+    "paper notes/LLM Inference/Disaggration/MoonCake.md",
+    "paper notes/LLM Inference/Disaggration/MegaScale-infer.md",
+    "paper notes/LLM Inference/Disaggration/llm-d.md",
+    "paper notes/LLM Inference/Disaggration/DistServe.md",
+    "paper notes/LLM Inference/serving/task scheduling",
+    "paper notes/LLM Inference/serving/deployment",
+    "paper notes/LLM Inference/serving/finetuning",
+    "paper notes/LLM Inference/measurement",
     "paper notes/LLM Inference/Network-for-llm-serving",
     "paper notes/LLM Inference/LLM-edge",
     "paper notes/LLM Model/Attention",
-    "paper notes/LLM Inference/Sequence parallelism",
-    "paper notes/LLM Inference/LLM router",
-    "paper notes/Task Scheduler/batch scheduler/未命名"
+    "paper notes/LLM Inference/Sequence parallelism"
   ]
 }
