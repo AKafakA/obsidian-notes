@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/cara/summarized scope.md",
+                "file": "paper notes/LLM Training/PipeDream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "summarized scope"
+              "title": "PipeDream"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper notes/LLM Inference/serving/engine_optimzation/Nano-flow.md",
+                "file": "paper notes/LLM Training/Reducing Activation Recomputation in Large Transformer Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nano-flow"
+              "title": "Reducing Activation Recomputation in Large Transformer Models"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "RouteBench"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,36 +220,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b21aff0eaa612185",
+  "active": "8d7b1eceb2c10e58",
   "lastOpenFiles": [
-    "paper notes/LLM Inference/Sequence parallelism/LoongServe.md",
-    "paper notes/LLM Inference/serving/engine_optimzation/Nano-flow.md",
-    "paper notes/LLM Inference/serving/engine_optimzation",
-    "paper notes/LLM Inference/LLM router/ROUTERARENA.md",
-    "paper notes/LLM Inference/LLM router/Avenger-Pro.md",
-    "paper notes/LLM Inference/LLM router/RouteBench.md",
-    "paper notes/LLM Inference/LLM router/Average.md",
-    "paper notes/LLM Inference/LLM router/routeLLM.md",
-    "project/cara/cara-discussion.md",
+    "course notes/ECE408 Applied Parallel Programming.md",
+    "paper notes/LLM Training/PipeDream.md",
+    "project/note-admin.md",
+    "paper notes/LLM Training/Ring-self-attention.md",
     "project/cara/summarized scope.md",
-    "project/cara/UnivSchedule.md",
-    "project/cara",
-    "project/Block.md",
-    "project/Dodoor.md",
-    "paper notes/LLM Inference/LLM router/hybrid-llm.md",
-    "paper notes/LLM Inference/LLM router/Best-Route.md",
-    "paper notes/LLM Inference/LLM router/FrugalGPT.md",
-    "paper notes/LLM Inference/serving/task scheduling/Block.md",
-    "paper notes/LLM Inference/Disaggration/DUETSERVE.md",
-    "paper notes/LLM Inference/Disaggration/Semi-PD.md",
+    "paper notes/LLM Training/Reducing Activation Recomputation in Large Transformer Models.md",
+    "paper notes/LLM Inference/LLM-edge/Never Start from Scratch.md",
+    "paper notes/LLM Inference/LLM-edge/EdgeLoRA.md",
+    "paper notes/LLM Inference/LLM-edge/Cross-Silo Knowledge Transfer.md",
+    "paper notes/LLM Inference/measurement/Revisiting SLO.md",
+    "paper notes/LLM Inference/MoE-inferences/KTransformer.md",
+    "paper notes/LLM Inference/MoE-inferences/Fiddler.md",
+    "paper notes/LLM Training/Ring Attention.md",
+    "paper notes/LLM Inference/GEMM & Kernel/Blockwise parallel transformer (BPT).md",
+    "paper notes/LLM Inference/GEMM & Kernel/flash attention.md",
+    "paper notes/LLM Inference/GEMM & Kernel/Flash attention.md",
+    "paper notes/LLM Inference/LLM router/Avenger.md",
+    "paper notes/LLM Inference/GEMM & Kernel/Flash Infer.md",
     "paper notes/LLM Inference/Disaggration/TPLA.md",
     "paper notes/LLM Inference/Disaggration/TaiChi.md",
     "paper notes/LLM Inference/Disaggration/Splitwise.md",
+    "paper notes/LLM Inference/Disaggration/Semi-PD.md",
     "paper notes/LLM Inference/Disaggration/PD-On-Local-Cloud.md",
     "paper notes/LLM Inference/Disaggration/MoonCake.md",
     "paper notes/LLM Inference/Disaggration/MegaScale-infer.md",
     "paper notes/LLM Inference/Disaggration/llm-d.md",
-    "paper notes/LLM Inference/Disaggration/DistServe.md",
+    "paper notes/LLM Inference/serving/engine_optimzation",
+    "project/cara",
     "paper notes/LLM Inference/serving/task scheduling",
     "paper notes/LLM Inference/serving/deployment",
     "paper notes/LLM Inference/serving/finetuning",

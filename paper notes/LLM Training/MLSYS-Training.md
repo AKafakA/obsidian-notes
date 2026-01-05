@@ -14,8 +14,6 @@ Gpipe
 
 PipeDream
 
-
-
 ----
 
 Data parallelism
@@ -33,6 +31,21 @@ Expert parallelism (MoE)
 [Auxiliary-Loss-Free Load Balancing](https://arxiv.org/abs/2408.15664)
 
 -----
+Context/Squence parallelism
+
+[Seq-parallel](https://arxiv.org/pdf/2105.13120)
+[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
+[Ring Attention](https://arxiv.org/abs/2310.01889)]
+
+----
+
+composite parallelism
+
+2D Alpa
+
+wlb-llm 
+
+-------
 
 Alignment
 
