@@ -13,43 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper notes/LLM Training/PipeDream.md",
+                "file": "project/Dodoor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PipeDream"
+              "title": "Dodoor"
             }
           },
           {
-            "id": "b21aff0eaa612185",
+            "id": "371ba2e75fe58f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper notes/LLM Training/Reducing Activation Recomputation in Large Transformer Models.md",
+                "file": "project/CaraDAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reducing Activation Recomputation in Large Transformer Models"
-            }
-          },
-          {
-            "id": "382e62544804a969",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper notes/LLM Inference/LLM router/RouteBench.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RouteBench"
+              "title": "CaraDAG"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -220,34 +207,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8d7b1eceb2c10e58",
+  "active": "371ba2e75fe58f55",
   "lastOpenFiles": [
-    "course notes/ECE408 Applied Parallel Programming.md",
-    "paper notes/LLM Training/PipeDream.md",
+    "project/Dodoor.md",
     "project/note-admin.md",
-    "paper notes/LLM Training/Ring-self-attention.md",
-    "project/cara/summarized scope.md",
+    "project/virtual pipeline.md",
+    "paper notes/LLM Inference/LLM router/RouteBench.md",
     "paper notes/LLM Training/Reducing Activation Recomputation in Large Transformer Models.md",
+    "project/CaraDAG.md",
+    "project/Block.md",
+    "project/UnivCache.md",
+    "paper notes/LLM Inference/Network-for-llm-serving/UCCL.md",
+    "paper notes/LLM Inference/MoE-inferences/KTransformer.md",
+    "paper notes/LLM Inference/MoE-inferences/Fiddler.md",
+    "paper notes/LLM Inference/measurement/Revisiting SLO.md",
     "paper notes/LLM Inference/LLM-edge/Never Start from Scratch.md",
     "paper notes/LLM Inference/LLM-edge/EdgeLoRA.md",
     "paper notes/LLM Inference/LLM-edge/Cross-Silo Knowledge Transfer.md",
-    "paper notes/LLM Inference/measurement/Revisiting SLO.md",
-    "paper notes/LLM Inference/MoE-inferences/KTransformer.md",
-    "paper notes/LLM Inference/MoE-inferences/Fiddler.md",
-    "paper notes/LLM Training/Ring Attention.md",
-    "paper notes/LLM Inference/GEMM & Kernel/Blockwise parallel transformer (BPT).md",
-    "paper notes/LLM Inference/GEMM & Kernel/flash attention.md",
-    "paper notes/LLM Inference/GEMM & Kernel/Flash attention.md",
+    "paper notes/LLM Inference/LLM router/ROUTERARENA.md",
+    "paper notes/LLM Inference/LLM router/routeLLM.md",
+    "paper notes/LLM Inference/LLM router/hybrid-llm.md",
+    "paper notes/LLM Inference/LLM router/FrugalGPT.md",
+    "paper notes/LLM Inference/LLM router/Best-Route.md",
+    "paper notes/LLM Inference/LLM router/Avenger-Pro.md",
     "paper notes/LLM Inference/LLM router/Avenger.md",
     "paper notes/LLM Inference/GEMM & Kernel/Flash Infer.md",
-    "paper notes/LLM Inference/Disaggration/TPLA.md",
-    "paper notes/LLM Inference/Disaggration/TaiChi.md",
-    "paper notes/LLM Inference/Disaggration/Splitwise.md",
-    "paper notes/LLM Inference/Disaggration/Semi-PD.md",
-    "paper notes/LLM Inference/Disaggration/PD-On-Local-Cloud.md",
-    "paper notes/LLM Inference/Disaggration/MoonCake.md",
-    "paper notes/LLM Inference/Disaggration/MegaScale-infer.md",
-    "paper notes/LLM Inference/Disaggration/llm-d.md",
+    "paper notes/LLM Inference/GEMM & Kernel/Flash Attention-2.md",
+    "paper notes/LLM Inference/GEMM & Kernel/flash attention.md",
+    "paper notes/LLM Inference/GEMM & Kernel/Blockwise parallel transformer (BPT).md",
     "paper notes/LLM Inference/serving/engine_optimzation",
     "project/cara",
     "paper notes/LLM Inference/serving/task scheduling",
