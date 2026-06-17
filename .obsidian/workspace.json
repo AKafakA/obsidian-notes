@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project/CaraDAG.md",
+                "file": "course notes/CS336/Revised Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CaraDAG"
+              "title": "Revised Note"
+            }
+          },
+          {
+            "id": "07fd42d9ca0d4494",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,14 +219,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "371ba2e75fe58f55",
+  "active": "07fd42d9ca0d4494",
   "lastOpenFiles": [
+    "course notes/CS336/Note Draft.md",
+    "course notes/CS336/Revised Note.md",
+    "course notes/CS336/Lab Notes.md",
+    "project/CaraDAG.md",
     "project/Dodoor.md",
     "project/note-admin.md",
     "project/virtual pipeline.md",
     "paper notes/LLM Inference/LLM router/RouteBench.md",
     "paper notes/LLM Training/Reducing Activation Recomputation in Large Transformer Models.md",
-    "project/CaraDAG.md",
     "project/Block.md",
     "project/UnivCache.md",
     "paper notes/LLM Inference/Network-for-llm-serving/UCCL.md",
@@ -232,9 +247,6 @@
     "paper notes/LLM Inference/LLM router/Avenger-Pro.md",
     "paper notes/LLM Inference/LLM router/Avenger.md",
     "paper notes/LLM Inference/GEMM & Kernel/Flash Infer.md",
-    "paper notes/LLM Inference/GEMM & Kernel/Flash Attention-2.md",
-    "paper notes/LLM Inference/GEMM & Kernel/flash attention.md",
-    "paper notes/LLM Inference/GEMM & Kernel/Blockwise parallel transformer (BPT).md",
     "paper notes/LLM Inference/serving/engine_optimzation",
     "project/cara",
     "paper notes/LLM Inference/serving/task scheduling",
